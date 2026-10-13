@@ -1,0 +1,4 @@
+1. Printing Hello World
+2. Data Types and Variables, Typecasting
+3. If Else (leap year)
+4. for loop (leap year)
