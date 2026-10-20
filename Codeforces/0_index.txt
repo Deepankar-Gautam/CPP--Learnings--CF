@@ -2,3 +2,7 @@
 4A. Watermelon
 71. Way Too Long Words
 158A. Next Round
+263A. Beautiful Matrix
+339A. Helpful Maths
+467A. George and Accommodation
+546A. Soldier and Bananas
